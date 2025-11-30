@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tayyip Güney</h1>
 <h3 align="center">Microsoft Certified Fabric Data Engineer — Azure & AI Enthusiast</h3>
+<p align="left">
+Certified Microsoft Fabric Data Engineer with a strong focus on <b>Data Science, Machine Learning, AI</b>, and modern autonomous systems. Currently working on projects involving <b>machine learning models, computer vision, Agentic AI</b>, and <b>Python-based analytics</b>, exploring practical and real-world applications of advanced AI techniques.<br><br>
 
+Actively expanding expertise in <b>Microsoft Fabric</b> (Lakehouse, Warehouse, Pipelines, Dataflows, KQL) and <b>Microsoft Azure</b>, particularly in cloud data architectures, data engineering workflows and end-to-end AI solutions.<br><br>
+
+Previously worked as a <b>SAP/ERP consultant</b>, gaining valuable experience in enterprise systems, process optimization and data flows — a foundation that now supports a holistic approach to building scalable data and AI solutions.
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tguneyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tguneyt" height="30" width="40" /></a>
