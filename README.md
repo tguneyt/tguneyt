@@ -5,7 +5,7 @@ Certified Microsoft Fabric Data Engineer with a strong focus on <b>Data Science,
 
 Actively expanding expertise in <b>Microsoft Fabric</b> (Lakehouse, Warehouse, Pipelines, Dataflows, KQL) and <b>Microsoft Azure</b>, particularly in cloud data architectures, data engineering workflows and end-to-end AI solutions.<br><br>
 
-Previously worked as a <b>SAP/ERP consultant</b>, gaining valuable experience in enterprise systems, process optimization and data flows — a foundation that now supports a holistic approach to building scalable data and AI solutions.
+Previously worked as a <b>SAP/IFS ERP consultant</b>, gaining valuable experience in enterprise systems, process optimization and data flows — a foundation that now supports a holistic approach to building scalable data and AI solutions.
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
